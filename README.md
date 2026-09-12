@@ -1,7 +1,6 @@
 # HeyBlox
 Made by HeydenStudio
 HeyBlox Это ревайвл на основе Novetus в который вы можете публиковать свои аксессуары публиковать свои плейсы и тд
-
  Соцсети HeyBlox
 X (Twitter) https://x.com/HeyBloxOffical
 Tiktok @heybloxoffical
