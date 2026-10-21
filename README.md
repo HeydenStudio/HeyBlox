@@ -1,5 +1,6 @@
 # HeyBlox
-<img width="369" height="65" alt="Screenshot 2026-10-19 at 22-29-13 Old Roblox Font шрифт" src="https://github.com/user-attachments/assets/20e0f231-52c9-4164-8336-76cc707c1895" />
+<img width="369" height="65" alt="Screenshot_2026-10-19_at_22-29-13_Old_Roblox_Font_шрифт-removebg-preview" src="https://github.com/user-attachments/assets/337c1189-74a2-46e8-8de2-22ec4198f2a3" />
+
 <img width="2582" height="500" alt="nvets" src="https://github.com/user-attachments/assets/9740d8ed-1ba5-4595-8319-6f4b0fd601e5" />
 
 
