@@ -1,201 +1,236 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+Дата последнего обновления: 24.10.2026 14:47 ПО МСК
+HeyBlox — независимый игровой проект, основанный на Novetus, разработанном BItl Development Studio. HeyBlox самостоятельно управляется своей администрацией и не является официальным продуктом Roblox Corporation или BItl Development Studio.
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+Настоящие Условия использования (далее — «Условия») регулируют доступ к HeyBlox и его использование, включая игровой клиент, лаунчер, сайт, игровые серверы, пользовательские плейсы, аксессуары, обновления и связанные с проектом сервисы.
 
-   1. Definitions.
+Используя HeyBlox, пользователь подтверждает, что ознакомился с настоящими Условиями и обязуется их соблюдать. Если пользователь не согласен с Условиями, он должен прекратить использование соответствующих сервисов проекта.
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+2. Право на использование сервиса
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+2.1. HeyBlox предоставляет пользователям возможность запускать совместимые игровые версии, подключаться к серверам, создавать собственные серверы и взаимодействовать с пользовательским контентом.
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+2.2. Пользователь получает ограниченное, неисключительное, непередаваемое и отзывное разрешение на использование HeyBlox в личных целях в соответствии с настоящими Условиями и применимыми лицензиями.
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+2.3. Пользователь не приобретает права собственности на HeyBlox, его программное обеспечение, оригинальные материалы или инфраструктуру в результате установки или использования проекта.
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+2.4. Администрация HeyBlox вправе изменять функциональность проекта, выпускать обновления, ограничивать доступ к отдельным возможностям и прекращать поддержку определённых версий.
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+2.5. Пользователь обязан соблюдать применимое законодательство и условия лицензий сторонних компонентов, используемых в проекте.
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+3. Запрещённое использование программного обеспечения
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
+3.1. Пользователю запрещается использовать HeyBlox для разработки, распространения или применения программных средств, предназначенных для нарушения нормальной работы проекта, получения несанкционированного доступа или вмешательства в игровой процесс других пользователей.
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
+3.2. Запрещается создавать, распространять или использовать эксплойты, читы, инжекторы и другие инструменты, предназначенные для:
 
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
+- Получения нечестного преимущества на игровых серверах.
+- Обхода ограничений или механизмов защиты HeyBlox.
+- Изменения игровых результатов, статистики или таблиц лидеров обманным путём.
+- Получения несанкционированного доступа к данным, функциям или серверной инфраструктуре.
+- Нарушения работы игрового клиента, лаунчера или серверов.
+- Вмешательства в игровой процесс других пользователей без разрешения.
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
+3.3. Запрещается распространять вредоносные версии клиента HeyBlox, выдавать изменённые файлы за официальные или намеренно внедрять в распространяемое программное обеспечение функции, предназначенные для нанесения вреда пользователям.
 
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
+3.5. Запрещается создавать или распространять инструменты для намеренного нарушения доступности серверов, включая атаки на инфраструктуру, несанкционированную перегрузку и другие деструктивные действия.
 
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
+3.6. Само по себе изучение программного обеспечения, создание совместимых модификаций или разработка инструментов для собственных проектов не считается нарушением, если такие действия не запрещены применимым законодательством, соответствующими лицензиями или другими положениями настоящих Условий.
 
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
+3.7. Добросовестное исследование безопасности и сообщение об обнаруженных уязвимостях не запрещается автоматически. Администрация вправе устанавливать дополнительные требования к проведению таких исследований.
 
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
+4. Запрет на вмешательство в работу сервиса
 
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
+4.1. Пользователь не вправе предпринимать действия, направленные на нарушение безопасности, стабильности или доступности HeyBlox.
 
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
+4.2. Запрещается:
 
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
+- Получать несанкционированный доступ к серверам или системам управления проектом.
+- Вмешиваться в работу серверов других пользователей без разрешения.
+- Намеренно использовать уязвимости для нарушения игрового процесса.
+- Обходить блокировки, ограничения доступа или иные меры безопасности.
+- Нарушать работу лаунчера, сетевых функций или серверной инфраструктуры.
+- Использовать автоматизированные средства для злоупотребления функциями сервиса или создания чрезмерной нагрузки.
 
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
+4.3. Пользователь не должен использовать ошибки программного обеспечения для причинения вреда проекту или другим пользователям.
 
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
+4.4. Обнаруженные уязвимости рекомендуется сообщать администрации через официальные каналы HeyBlox.
 
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
+5. Пользовательский контент
 
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
+5.1. HeyBlox может предоставлять возможность отправлять, публиковать или распространять пользовательские плейсы, аксессуары и другие материалы.
 
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
+5.2. Пользователь сохраняет права на созданный им контент в той мере, в какой такие права принадлежат ему по закону.
 
-   END OF TERMS AND CONDITIONS
+5.3. Отправляя контент для публикации, пользователь подтверждает, что обладает необходимыми правами и разрешениями на его использование и распространение.
 
-   APPENDIX: How to apply the Apache License to your work.
+5.4. Отправляя контент, пользователь предоставляет HeyBlox неисключительное, безвозмездное разрешение использовать, воспроизводить, технически изменять, отображать и распространять этот контент в объёме, необходимом для его проверки, публикации, работы проекта и выпуска обновлений.
 
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
+5.5. Пользователь не передаёт HeyBlox право собственности на свой контент исключительно в силу его отправки.
 
-   Copyright [yyyy] [name of copyright owner]
+5.6. Запрещается отправлять контент, содержащий вредоносный код, незаконные материалы, нарушения прав третьих лиц или функции, предназначенные для нарушения работы HeyBlox.
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+5.7. Администрация вправе отклонять, скрывать, удалять или не включать контент в обновления, если имеются основания полагать, что он нарушает настоящие Условия, применимое законодательство или технические требования проекта.
 
-       http://www.apache.org/licenses/LICENSE-2.0
+5.8. Отправка пользовательского контента не гарантирует его публикацию или бессрочное хранение.
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+6. Публикация аксессуаров
+
+6.1. Пользователи могут предлагать аксессуары для рассмотрения администрацией HeyBlox.
+
+6.2. Администрация вправе самостоятельно определять порядок проверки, отбора и включения аксессуаров в игровые файлы.
+
+6.3. Количество аксессуаров, добавляемых в одно обновление, может быть ограничено.
+
+6.4. Для использования новых аксессуаров пользователю может потребоваться установить актуальную версию HeyBlox.
+
+6.5. Администрация не гарантирует принятие каждого предложения, определённый срок публикации или сохранение аксессуаров во всех будущих версиях.
+
+7. Публикация пользовательских плейсов
+
+7.1. Пользователи могут отправлять файлы плейсов в формате ".rbxl" через предусмотренные официальные каналы проекта.
+
+7.2. Пользователь несёт ответственность за содержимое плейса и наличие необходимых прав на включённые в него материалы.
+
+7.3. Администрация вправе проверять плейсы на совместимость, безопасность и соответствие настоящим Условиям.
+
+7.4. Плейсы, содержащие эксплойты для причинения вреда, вредоносный код, механизмы кражи данных или другие запрещённые компоненты, могут быть отклонены или удалены.
+
+7.5. Администрация самостоятельно принимает решение о публикации плейсов и не гарантирует их постоянную доступность.
+
+8. Игровые серверы
+
+8.1. HeyBlox может предоставлять официальные серверы и функциональность для создания пользовательских серверов.
+
+8.2. Пользователь обязуется не использовать серверы для нарушения настоящих Условий, причинения вреда другим игрокам или вмешательства в работу проекта.
+
+8.3. Создание пользовательских серверов допускается при соблюдении технических требований, применимых лицензий и настоящих Условий.
+
+8.4. Администрация вправе ограничить или прекратить доступ к серверу при выявлении нарушений, технических угроз или иных обоснованных причин.
+
+8.5. Доступность серверов зависит от технического состояния проекта и сторонних сетевых сервисов. HeyBlox не гарантирует непрерывную работу всех серверов.
+
+8.6. Использование стороннего программного обеспечения для сетевого подключения регулируется также условиями соответствующих сторонних сервисов.
+
+9. Игровые результаты и таблицы лидеров
+
+9.1. HeyBlox может предоставлять таблицы лидеров, включая таблицу KOs для соответствующих игровых режимов.
+
+9.2. Пользователь обязан предоставлять достоверные сведения при подтверждении игровых достижений.
+
+9.3. Запрещается подделывать доказательства, изменять результаты обманным путём или использовать запрещённые инструменты для получения места в таблицах лидеров.
+
+9.4. Администрация вправе проверять результаты и исключать неподтверждённые или полученные с нарушением настоящих Условий достижения.
+
+10. Интеллектуальная собственность
+
+10.1. Права на Novetus принадлежат соответствующим правообладателям и регулируются применимыми лицензиями.
+
+10.2. HeyBlox является независимым проектом, использующим Novetus в качестве основы. Использование Novetus не означает принадлежность HeyBlox компании BItl Development Studio или управление HeyBlox со стороны этой студии.
+
+10.3. Права на сторонние названия, товарные знаки, игровые материалы и программные компоненты принадлежат их соответствующим правообладателям.
+
+10.4. Пользователь обязан соблюдать применимые лицензии и не вправе распространять материалы с нарушением прав третьих лиц.
+
+10.5. Если пользователь считает, что материал в HeyBlox нарушает его права, он может обратиться к администрации через официальные каналы проекта.
+
+11. Модерация и ограничение доступа
+
+11.1. При нарушении настоящих Условий администрация вправе принимать соразмерные меры в пределах своих полномочий.
+
+11.2. Такие меры могут включать:
+
+- Предупреждение пользователя.
+- Удаление или ограничение доступа к пользовательскому контенту.
+- Временное ограничение доступа к серверу или отдельным функциям.
+- Сброс или исключение недостоверных игровых результатов.
+- Временную или постоянную блокировку доступа к сервисам HeyBlox.
+
+11.3. При выборе меры администрация может учитывать тяжесть нарушения, его последствия, повторяемость и доступные доказательства.
+
+11.4. При серьёзной угрозе безопасности или намеренном вмешательстве в работу проекта ограничение доступа может применяться без предварительного предупреждения.
+
+11.5. Пользователь вправе обратиться к администрации с просьбой пересмотреть принятое решение.
+
+11.6. Администрация не гарантирует отмену ограничений, но может пересмотреть их при обнаружении ошибки или получении существенных новых сведений.
+
+12. Обновления и доступность
+
+12.1. HeyBlox может получать обновления, исправления ошибок, новые функции, аксессуары и плейсы.
+
+12.2. Администрация вправе изменять, приостанавливать или прекращать поддержку отдельных функций и версий.
+
+12.3. Пользователь самостоятельно отвечает за сохранность своих файлов и резервное копирование пользовательских материалов.
+
+12.4. HeyBlox не гарантирует совместимость всех пользовательских материалов со всеми версиями проекта.
+
+12.5. Администрация вправе временно ограничивать доступ к сервисам для технического обслуживания, устранения неисправностей или обеспечения безопасности.
+
+13. Конфиденциальность
+
+13.1. При использовании HeyBlox пользователь может взаимодействовать с сайтом, игровыми серверами и сторонними платформами, которые обрабатывают данные в соответствии со своими условиями и политиками.
+
+13.2. Пользователь не должен публиковать пароли, токены доступа и конфиденциальную информацию в игровых чатах или сообществах.
+
+13.3. Если HeyBlox собирает персональные данные непосредственно через свои сервисы, порядок их обработки должен быть раскрыт в отдельной Политике конфиденциальности в случаях, предусмотренных применимым законодательством.
+
+13.4. Настоящие Условия не заменяют Политику конфиденциальности.
+
+14. Отказ от гарантий и ограничение ответственности
+
+14.1. HeyBlox предоставляется в пределах фактической доступности и с учётом ограничений, допускаемых применимым законодательством.
+
+14.2. Администрация стремится обеспечивать работоспособность проекта, однако не гарантирует отсутствие ошибок, перебоев, несовместимости или постоянного доступа к серверам.
+
+14.3. Пользователь самостоятельно принимает решение об установке и использовании программного обеспечения и должен проверять происхождение загружаемых файлов.
+
+14.4. В пределах, допускаемых применимым законодательством, администрация не несёт ответственности за косвенные убытки, вызванные сбоями сторонних сервисов, действиями других пользователей или временной недоступностью проекта.
+
+14.5. Ничто в настоящих Условиях не исключает и не ограничивает ответственность, которая не может быть исключена или ограничена по применимому законодательству.
+
+15. Сторонние сервисы
+
+15.1. HeyBlox может использовать сторонние платформы, включая GitHub, Neocities, Discord, Telegram и Radmin VPN.
+
+15.2. Использование сторонних платформ регулируется их собственными условиями и политиками.
+
+15.3. HeyBlox не является владельцем указанных сервисов исключительно в силу их использования и не гарантирует их постоянную доступность.
+
+15.4. Пользователь обязан проверять подлинность источников загрузки и не скачивать подозрительные файлы от неизвестных лиц.
+
+16. Изменение Условий
+
+16.1. Администрация HeyBlox вправе изменять настоящие Условия по мере развития проекта.
+
+16.2. Обновлённые Условия публикуются на официальных ресурсах HeyBlox.
+
+16.3. Если изменения требуют отдельного согласия пользователя по применимому законодательству, такое согласие должно быть получено соответствующим образом.
+
+16.4. Если пользователь не согласен с обновлёнными Условиями, он должен прекратить использование тех функций, для которых согласие с ними необходимо.
+
+17. Применимое законодательство
+
+17.1. Настоящие Условия применяются с учётом обязательных норм законодательства, действующего в отношении пользователя и деятельности проекта.
+
+17.2. Если отдельное положение признаётся недействительным или неприменимым, остальные положения продолжают действовать в допустимом законом объёме.
+
+17.3. Ничто в настоящих Условиях не лишает пользователя прав, предоставленных ему обязательными нормами применимого законодательства.
+
+18. Официальные ресурсы и контакты
+
+Официальные ресурсы HeyBlox:
+
+- Сайт: https://heybloxroblox.neocities.org
+- GitHub: https://github.com/HeydenStudio/HeyBlox
+- X (Twitter): https://x.com/HeyBloxOffical
+- TikTok: @heybloxoffical
+- Telegram: https://t.me/HeyBlox
+- Discord: https://discord.gg/4tkBFPqq6G
+- Страница перенаправления в Discord: https://heybloxdiscord.neocities.org
+
+Для вопросов о нарушениях, блокировках, эксплойтах, пользовательском контенте или настоящих Условиях используйте официальное сообщество HeyBlox.
+
+Администрация может обновлять список официальных ресурсов через подтверждённые каналы проекта.
+
+---
+
+Используя HeyBlox, вы подтверждаете, что ознакомились с настоящими Условиями использования и обязуетесь соблюдать их.
