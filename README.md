@@ -3,6 +3,7 @@
 
 <img width="2582" height="500" alt="nvets" src="https://github.com/user-attachments/assets/9740d8ed-1ba5-4595-8319-6f4b0fd601e5" />
 
+ENG repo : https://github.com/HeydenStudio/HeyBloxENG/tree/main
 
 # HeyBlox
 ## Описание проэкта 
