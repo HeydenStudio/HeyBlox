@@ -51,4 +51,7 @@ https://discord.gg/4tkBFPqq6G
 https://heybloxdiscord.neocities.org
 ### Сыллка на основной дискорд канал Heyden Studio 
 https://discord.gg/RzbXsfCQ3P
-<img width="294" height="65" alt="Screenshot_2026-10-19_at_22-27-40_Old_Roblox_Font_шрифт-removebg-preview" src="https://github.com/user-attachments/assets/ad25f2f8-0eea-4fdb-bca6-cbd5446af044" />
+# Как скачать?
+1. ОБЕЗАТЕЛЬНО разархивируете файл на диске "C" если вы его разархивируете его не на "C" то будет очень много проблем на стороне клиента
+2. Не выделяйте папку при раз архивации в WinRAR
+3. Не переименовываете папку после раз архивации
